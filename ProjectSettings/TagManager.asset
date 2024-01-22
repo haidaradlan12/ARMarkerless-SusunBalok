@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - 1A
+  - 2A
+  - 3A
+  - 4A
+  - 5A
+  - 6A
+  - 7A
+  - 8A
+  - 9A
+  - 10A
+  - 11A
+  - 12A
+  - 13A
+  - 14A
+  - 15A
+  - 16A
+  - 17A
+  - 18A
+  - 19A
+  - 20A
+  - 1B
+  - 2B
+  - 3B
+  - 4B
+  - 5B
+  - 6B
+  - 7B
+  - 8B
+  - 9B
+  - 10B
+  - 11B
+  - 12B
+  - 13B
+  - 14B
+  - 15B
+  - 16B
+  - 17B
+  - 18B
+  - 19B
+  - 20B
+  - 21A
+  - 22A
+  - 23A
+  - 24A
+  - 25A
+  - 26A
+  - 27A
+  - 28A
+  - 29A
+  - 30A
+  - 21B
+  - 22B
+  - 23B
+  - 24B
+  - 25B
+  - 26B
+  - 27B
+  - 28B
+  - 29B
+  - 30B
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
